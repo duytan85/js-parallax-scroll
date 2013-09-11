@@ -1,0 +1,28 @@
+/******************************************************
+resets
+******************************************************/
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px; 
+}
+/******************************************************
+styles
+******************************************************/
+.parallax-container {
+  position: relative;
+  overflow: hidden; 
+}
+.parallax-element {
+  position: absolute; 
+}
+.parallax-content {
+  position: relative;
+  background: rgba(255, 255, 255, 0.75);
+  width: 25%;
+  height: 100%; 
+}
+.random {
+  height: 400px; 
+}
