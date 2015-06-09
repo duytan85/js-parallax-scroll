@@ -1,0 +1,31 @@
+{
+  "name": "js-parallax-scroll",
+  "version": "1.0.0",
+  "description": "JavaScript parallax scroll widget",
+  "scripts": {
+    "test": "node node_modules/grunt-cli/bin/grunt test"
+  },
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duytan85/js-parallax-scroll.git"
+  },
+  "author": "Duytan (Zee) Hoang",
+  "devDependencies": {
+    "chai": "~2.2.0",
+    "grunt-contrib-jshint": "~0.11.1",
+    "grunt-karma": "~0.10.1",
+    "grunt-mocha-test": "~0.12.7",
+    "karma": "~0.12.31",
+    "karma-mocha": "~0.1.10",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "karma-sinon-chai": "~0.3.0",
+    "load-grunt-tasks": "~3.1.0",
+    "mocha": "~2.2.1",
+    "phantomjs": "^1.9.17",
+    "sinon": "~1.14.1"
+  }
+}
