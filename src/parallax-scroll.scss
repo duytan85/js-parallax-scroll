@@ -1,0 +1,19 @@
+/**************************************
+LIBARY
+**************************************/
+.parallax-container {
+	overflow: hidden;
+	display: block;
+}
+
+/**************************************
+EXAMPLE
+**************************************/
+.container-mini {
+	height: 300px;
+	width: 500px;
+	
+	.parallax-element {
+		height: 200px;
+	}
+}

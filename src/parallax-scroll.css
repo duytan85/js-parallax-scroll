@@ -1,0 +1,17 @@
+/**************************************
+LIBARY
+**************************************/
+.parallax-container {
+  overflow: hidden;
+  display: block; }
+
+/**************************************
+EXAMPLE
+**************************************/
+.container-mini {
+  height: 300px;
+  width: 500px; }
+  .container-mini .parallax-element {
+    height: 200px; }
+
+/*# sourceMappingURL=parallax-scroll.css.map */

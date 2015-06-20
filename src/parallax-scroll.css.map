@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;;AAGA,mBAAoB;EACnB,QAAQ,EAAE,MAAM;EAChB,OAAO,EAAE,KAAK;;;;;AAMf,eAAgB;EACf,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;EAEZ,iCAAkB;IACjB,MAAM,EAAE,KAAK",
+"sources": ["parallax-scroll.scss"],
+"names": [],
+"file": "parallax-scroll.css"
+}
